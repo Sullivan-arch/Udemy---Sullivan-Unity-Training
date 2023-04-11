@@ -9,6 +9,7 @@ public class FinishLine : MonoBehaviour
     {
       if(other.tag == "Player")
       {
+        Debug.Log("You Win");
         SceneManager.LoadScene(0);
       }
     }
