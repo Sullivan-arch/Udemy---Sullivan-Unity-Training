@@ -326,8 +326,8 @@ Rigidbody2D:
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 13
+  m_LinearDrag: 1
+  m_AngularDrag: 10
   m_GravityScale: 1
   m_Material: {fileID: 0}
   m_Interpolate: 0
@@ -1489,7 +1489,7 @@ SurfaceEffector2D:
   m_ColliderMask:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_Speed: 10
+  m_Speed: 12
   m_SpeedVariation: 0
   m_ForceScale: 0.3
   m_UseContactForce: 0
