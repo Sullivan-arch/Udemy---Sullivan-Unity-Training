@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Game
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -437,9 +437,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 3a060000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 0efbffff22600000
+      m_ExpandedIDs: 0efbffff226000003a600000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -754,9 +754,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 11.079355, y: 7.069888, z: -0.17480421}
+    m_Target: {x: -10.95517, y: 3.4620328, z: -0.026895849}
     speed: 2
-    m_Value: {x: 11.079355, y: 7.069888, z: -0.17480421}
+    m_Value: {x: -10.95517, y: 3.4620328, z: -0.026895849}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -806,9 +806,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 18.47888
+    m_Target: 3.962752
     speed: 2
-    m_Value: 18.47888
+    m_Value: 3.962752
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -910,8 +910,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\02SULLIVAN.ABEGG\Documents\Udemy- Unity Training\Unity
-    Projects\SNOW BOARDER
+  m_LastProjectPath: C:\Users\02SULLIVAN.ABEGG\Documents\Udemy---Sullivan-Unity-Training
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -1068,7 +1067,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
